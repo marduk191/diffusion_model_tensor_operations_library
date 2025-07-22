@@ -1,0 +1,28 @@
+# Core dependencies for Tensor Operations Library
+
+# PyTorch - Core tensor operations and GPU support
+torch>=2.0.0
+
+# NumPy - Numerical computing and array operations
+numpy>=1.21.0
+
+# SciPy - Scientific computing (used for ndimage filters in Smooth operation)
+scipy>=1.7.0
+
+# Optional dependencies for enhanced functionality
+# Uncomment if needed:
+
+# Memory profiling and monitoring
+# psutil>=5.8.0
+
+# Progress bars for long operations
+# tqdm>=4.62.0
+
+# Plotting and visualization
+# matplotlib>=3.5.0
+
+# Development dependencies (uncomment for development)
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=22.0.0
+# flake8>=5.0.0
