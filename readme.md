@@ -287,3 +287,4 @@ This library is designed to be extensible. When adding new operations:
 - Based on techniques from [sd-webui-supermerger](https://github.com/hako-mikan/sd-webui-supermerger)
 - PowerUp implementation follows [arXiv:2311.03099](https://arxiv.org/pdf/2311.03099.pdf)
 - Additional merging techniques from [MergeLM](https://github.com/yule-BUAA/MergeLM/tree/main/model_merging_methods)
+- Based completely on untitled merger
