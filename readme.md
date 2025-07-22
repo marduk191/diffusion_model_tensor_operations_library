@@ -280,7 +280,7 @@ This library is designed to be extensible. When adding new operations:
 
 ## License
 
-[Specify your license here]
+
 
 ## References
 
